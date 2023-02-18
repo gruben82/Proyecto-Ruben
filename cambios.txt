@@ -1,1 +1,2 @@
-Estoy trabajando en la cabecera.
+Inicia el primer commit
+Este es el segundo commit
